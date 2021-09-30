@@ -54,14 +54,14 @@ The motivations for this web-app are:
   - Yellow-Brown
 
 
-![color_demo](README_imgs\color_switch_demo.gif)
+![color_demo](./README_imgs\color_switch_demo.gif)
 
 ### Marker Cluster Toggles
 - toggle the COVID-19 testing sites in Toronto
 - adjust the radius of testing sites
   - decide whether or not a testing site is within walking/driving distance
 
-![cluster_demo](README_imgs\marker_demo.gif)
+![cluster_demo](./README_imgs\marker_demo.gif)
 
 ## Want to Contribute?
 1. Clone the repo by following [Installation](##Installation)
