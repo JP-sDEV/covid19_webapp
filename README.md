@@ -1,7 +1,8 @@
 ﻿![banner_image](./README_imgs/banner.jpg)
 
 # COVID-19 in Toronto Interactive Web-app
-This web-app converts this notebook(link), exploring COVID-19 rates and testing sites in Toronto, into an interactive web-app. 
+This web-app converts this [notebook](https://colab.research.google.com/drive/1ENCvkyM36thyf7WLDFkWV8A3KNcEIGep?usp=sharing), exploring COVID-19 rates and testing sites in Toronto, into an interactive web-app.
+[Live App - Here](https://share.streamlit.io/jp-sdev/covid19_webapp/main/main.py)
 
 This web-app uses data from the government of Canada database (publicly available [here](https://www.publichealthontario.ca/en/data-and-analysis/infectious-disease/covid-19-data-surveillance/covid-19-data-tool?tab=summary)).
 Note: data is up to date until June 2021.
