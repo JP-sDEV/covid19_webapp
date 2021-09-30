@@ -1,4 +1,5 @@
-﻿
+﻿![banner_image](./README_imgs/banner.jpg)
+
 # COVID-19 in Toronto Interactive Web-app
 This web-app converts this notebook(link), exploring COVID-19 rates and testing sites in Toronto, into an interactive web-app. 
 
@@ -7,11 +8,15 @@ Note: data is up to date until June 2021.
 
 Contents
 ======
-* [Why?](#Why)
-* [Tech Used](#Tech-Used)
-* [Installation](#Installation)
-* [Features](#Features)
-* [Want to Contribute?](#Want-to-Contribute)
+- [COVID-19 in Toronto Interactive Web-app](#covid-19-in-toronto-interactive-web-app)
+- [Contents](#contents)
+	- [Why?](#why)
+	- [Tech Used](#tech-used)
+	- [Installation](#installation)
+	- [Features](#features)
+		- [Choropleth Toggles](#choropleth-toggles)
+		- [Marker Cluster Toggles](#marker-cluster-toggles)
+	- [Want to Contribute?](#want-to-contribute)
 
 ## Why? 
 The motivations for this web-app are:
@@ -28,7 +33,6 @@ The motivations for this web-app are:
  - [StreamLit](https://streamlit.io/)
 
 ## Installation 
-**Do not install this as `root`.**
 1.  Clone the repo `$ git clone https://github.com/JP-sDEV/covid19_webapp.git`
 
 2. `cd` into the root of the project
@@ -39,7 +43,24 @@ The motivations for this web-app are:
 
 5. Run app locally with `streamlit run main.py`
 
-## Features (to be added)
+## Features
+
+### Choropleth Toggles
+- toggle between different choropleth color schemes
+  - Orange-Red
+  - Blue-Purple
+  - Purple-Red
+  - Yellow-Brown
+
+
+![color_demo](README_imgs\color_switch_demo.gif)
+
+### Marker Cluster Toggles
+- toggle the COVID-19 testing sites in Toronto
+- adjust the radius of testing sites
+  - decide whether or not a testing site is within walking/driving distance
+
+![cluster_demo](README_imgs\marker_demo.gif)
 
 ## Want to Contribute?
 1. Clone the repo by following [Installation](##Installation)
