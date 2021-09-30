@@ -1,2 +1,6 @@
 .venv
 __pycache__
+README.mdZone.Identifier
+data\covid_rates.geojsonZone.Identifier
+data\testing_sites.geojsonZone.Identifier
+*.Identifier
