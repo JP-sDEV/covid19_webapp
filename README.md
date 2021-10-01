@@ -39,7 +39,7 @@ The motivations for this web-app are:
 2. `cd` into the root of the project
 3. Create a virtual environment `python3 -m venv /path/to/new/virtual/environment`
 	- [Virtual environments in Python](https://docs.python.org/3/library/venv.html)
-4. Install with [`pip3`](https://pypi.org/project/shallow-backup/)
+4. Install with `pip3`
     - `$ pip3 install requirements.txt`
 
 5. Run app locally with `streamlit run main.py`
