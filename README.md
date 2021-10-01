@@ -54,7 +54,11 @@ The motivations for this web-app are:
   - Yellow-Brown
 
 
-![color_demo](./README_imgs\color_switch_demo.gif)
+<!-- ![color_demo](README_imgs\color_switch_demo.gif) -->
+
+<img src="https://github.com/JP-sDEV/covid19_webapp/blob/main/README_imgs/color_switch_demo.gif" width="50%">
+
+<!-- ![color_demo](https://github.com/JP-sDEV/covid19_webapp/blob/main/README_imgs/color_switch_demo.gif) -->
 
 ### Marker Cluster Toggles
 - toggle the COVID-19 testing sites in Toronto
