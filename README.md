@@ -63,7 +63,7 @@ The motivations for this web-app are:
 <img src="https://github.com/JP-sDEV/covid19_webapp/blob/main/README_imgs/marker_demo.gif" width="80%">
 
 ## Want to Contribute?
-1. Clone the repo by following [Installation](##Installation)
+1. Clone the repo by following [Installation](#Installation)
 2. Improve the web-app by:
 	- add a feature
 	- resolving an issue in the [Issues](https://github.com/JP-sDEV/covid19_webapp/issues) tab
